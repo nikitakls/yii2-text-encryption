@@ -1,6 +1,6 @@
 <?php
 
-namespace frontend\widgets;
+namespace nikitakls\txtencryption;
 
 
 use yii\base\Widget;

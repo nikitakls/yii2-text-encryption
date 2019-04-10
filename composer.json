@@ -20,7 +20,7 @@
   },
   "autoload": {
     "psr-4": {
-      "nikitakls\\txt-encryption\\": "src"
+      "nikitakls\\txtencryption\\": "src"
     }
   }
 }
